@@ -26533,10 +26533,10 @@ RB:function RB(){},
 RA:function RA(){},
 r5:function r5(a){this.a=a},
 Rz:function Rz(a){this.a=a},
-aVt(){var s,r,q
+aVt(){var s,r,q,p="http://myboard-user-api.azurewebsites.net"
 if($.ao==null)A.aEc()
 $.ao.toString
-s=A.aNU(new A.NC(null),A.a([A.aCQ(new A.RC("/"),t.A9),A.aCQ(new A.Jx("/"),t.pe),A.aAh(new A.av1(),t.wD),A.aAh(new A.av2(),t.L_)],t.Ds))
+s=A.aNU(new A.NC(null),A.a([A.aCQ(new A.RC(p),t.A9),A.aCQ(new A.Jx(p),t.pe),A.aAh(new A.av1(),t.wD),A.aAh(new A.av2(),t.L_)],t.Ds))
 if($.ao==null)A.aEc()
 r=$.ao
 r.toString
